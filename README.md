@@ -1,6 +1,6 @@
-# OEL2-23-Ai-30
+# Open Ended Lab 2 (23-Ai-30)
 
-<b>Open-Ended Lab Task 2:<b>
+<b>Open-Ended Lab Task:<b>
 
 <b>Objective:<b>
 Given a string s which consists of lowercase or uppercase letters, return the length of the longest Palindrome that can be built with those letters. Letters are case sensitive, for example, "Aa" is not considered a palindrome.
