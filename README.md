@@ -8,12 +8,12 @@ Given a string s which consists of lowercase or uppercase letters, return the 
 
 <b>Examples:<b>
 
-Example 1:
-Input: s = "abccccdd"
-Output: 7
+Example 1:<br>
+Input: s = "abccccdd"<br>
+Output: 7<br>
 Explanation: One longest palindrome that can be built is "dccaccd", whose length is 7.
-
-<b>Example 2:<b>
-Input: s = "a"
-Output: 1
+<br><br>
+<b>Example 2:<b><br>
+Input: s = "a"<br>
+Output: 1<br>
 Explanation: The longest palindrome that can be built is "a", whose length is 1.
